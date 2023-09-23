@@ -23,7 +23,7 @@ Experience the future of home security with this Arduino project, setting a new 
 
 ## Feedback and Contributions
 
-I welcome any feedback, suggestions, or contributions from the community to improve this project. Feel free to open issues, create pull requests, or contact me via [insert contact information] if you have any questions or ideas.
+I welcome any feedback, suggestions, or contributions from the community to improve this project. Feel free to open issues, create pull requests, if you have any questions or ideas.
 
 Thank you for checking out my project, and I hope you find it interesting and educational!
 
